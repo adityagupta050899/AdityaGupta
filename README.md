@@ -56,8 +56,6 @@ Powered digital visibility through strategy, content, and analytics.
 
 ### 🚀 Ongoing Projects & Internship
 
-### 🚀 Ongoing Projects & Internship
-
 **🧠 Project Lead – GenAI SAR Automation | Agricultural Bank of China (Jan 2025- Present)**  
 Reimagining compliance with the power of LLMs and RAG pipelines.  
 - Leading a **Generative AI system** to auto-create **Suspicious Activity Reports (SARs)** that feel human-written but are machine-driven  
