@@ -24,8 +24,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-333?style=flat&logo=amazon-aws)
-![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ---
 
