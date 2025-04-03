@@ -31,42 +31,44 @@
 
 ### 🏆 Noteworthy Achievements
 
-- 🧠 Led SAR GenAI project for Agricultural Bank of China, where I created a dynamic SAR generation tool using RAG + Python + SQL 
-- 🌐 Finalist, Responsible Machine Learning Challenge
+- 🌍 Launched a COVID-19 hospital locator platform (NCTAH) as part of a social innovation internship project  
+- 🎓 VP of Finance – GWU Consulting Club | Former AIESEC VP – organized 15+ international internships & partnered with NGOs for education access  
+- 🧠 Certified in Google Analytics, PHP, JavaScript, and Digital Marketing – bridging tech + business insight like a pro
 - 💼 4+ years across marketing, consulting, and implementation
 
 ---
 
-### 💼 Experience
+### 💼 Professional Experience
 
-**👨‍💼 Consultant & Implementation Analyst**  
-_SHL | 2022 – 2024_  
-- Implemented psychometric & talent solutions for global enterprise clients  
-- Translated business challenges into technical requirements and clean code  
-- Automated analytics dashboards and improved internal processes with custom scripts  
+**🔍 Implementation Analyst – SHL (2022–2024)**  
+Translated strategy into scalable talent solutions for global giants like Barclays, PwC, and Accenture.  
+- Designed simulations that helped clients hire smarter (90% improvement in talent selection accuracy)  
+- Streamlined operations using Salesforce, JIRA & AWS, resulting in a 20% boost in delivery efficiency  
+- Turned consulting into a craft—equal parts people, process, and performance
 
-**📈 Marketing Executive**  
-_Khaskhabar | 2020 – 2022_  
-- Led digital marketing campaigns with a mix of data, creativity, and mischief  
-- Boosted reach by 40% with smart A/B testing and real-time user insights  
-- Knew when to follow trends—and when to break them 😎
+**📢 Marketing Executive – Khaskhabar.com (2020–2022)**  
+Powered digital visibility through strategy, content, and analytics.  
+- Led campaigns that spiked brand presence by 30% and daily site traffic to over 100k  
+- Blended market intelligence with storytelling to drive engagement and business growth  
+- Wrote punchy content, and it worked—because good writing always does
 
 ---
 
-### 🚀 Ongoing Projects & Experiences
+### 🚀 Ongoing Projects & Internship
 
-**🚨 Project Management Lead – GenAI SAR Automation**  
-_GWU Practicum Project | Agricultural Bank of China | January 2025 – Present_  
-- Designed and implemented a **Generative AI model** for automating Suspicious Activity Report (SAR) filings in line with **AML (Anti- Money Laundering)** compliance.  
-- Led a **cross-functional team of four**, managing project timelines, task assignments to maintain alignment between technical development and regulatory requirements.  
-- Fine-tuned **Llama 3.3 70b, Deepseek R1 & RAG models** to minimize **hallucination risk** and improve regulatory compliance  
+### 🚀 Ongoing Projects & Internship
 
-**🌍 Project Intern – Probono Project Finance**  
-_Consulting 360 | GlobalGiving Foundation | February 2025 – Present_  
-- Evaluating GlobalGiving’s financial positioning vs. competitors like GoFundMe to enhance sustainability  
-- Conducted deep-dive analysis of Form 990s, Audit Report and financial statements via **ProPublica, PitchBook, and Statista**  
-- Built a competitive intelligence framework to uncover market expansion opportunities  
-- Analyzed key financial trends to optimize fundraising and donor engagement strategies  
+**🧠 Project Lead – GenAI SAR Automation | Agricultural Bank of China (Jan 2025- Present)**  
+Reimagining compliance with the power of LLMs and RAG pipelines.  
+- Leading a **Generative AI system** to auto-create **Suspicious Activity Reports (SARs)** that feel human-written but are machine-driven  
+- Blending **structured financial data** (CSV) with **narrative DOCX files** using **LangChain and Python**  
+- Fine-tuning **LLaMA 3.3, Deepseek R1 & RAG models** to improve **precision and reduce hallucination** while staying **audit-ready**
+
+**📊 Data Analytics Lead – GlobalGiving Foundation (Feb 2025- Present)**  
+Where nonprofit strategy meets data storytelling.  
+- Built a **benchmarking framework** to compare **GlobalGiving vs. GoFundMe** and guide sustainable growth  
+- Analyzed **Form 990s and financial statements** to uncover **funding gaps and strategic opportunities**  
+- Introduced a **collaborative workflow** using **Google Drive + Canva**, improving team alignment and document management  
 
 ---
 
