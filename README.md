@@ -88,4 +88,3 @@ _Consulting 360 | GlobalGiving Foundation | February 2025 – Present_
 - 💌 Drop a line: aditya.gupta@gwmail.gwu.edu  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/gupta0508aditya/)
 - 🤝 Always up for tech chats, collabs, or just nerdy fun!
-
