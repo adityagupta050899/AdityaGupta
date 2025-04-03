@@ -24,8 +24,8 @@
 ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2b%2b)
-![VS Code](https://img.shields.io/badge/-VS%20Code-333?style=flat&logo=visual-studio-code)
+![AWS EC2](https://img.shields.io/badge/-AWS%20EC2-333?style=flat&logo=amazon-aws)
+![Tableau](https://img.shields.io/badge/-Tableau-333?style=flat&logo=tableau)
 
 ---
 
